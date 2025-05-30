@@ -99,14 +99,6 @@ services:
 
 ---
 
-## 📚 Further Reading
-
-This project is accompanied by a blog post for deeper understanding:
-
-👉 [Container-backdoor-ssh.md](./Container-backdoor-ssh.md)
-
----
-
 ## ⚠️ Disclaimer
 
 This project is for **security education and demonstration purposes only**. Do not use it in production environments.
